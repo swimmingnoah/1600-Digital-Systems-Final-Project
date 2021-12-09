@@ -12,4 +12,4 @@ Click Ubuntu inside the Linux Packages
 ![Vm Settings](/Assets/Screen%20Shot%202021-12-08%20at%207.38.50%20PM.png)
 ### you have now made it to the VM configuration tool. 
 
-## Please navigate to the [Vm Settings](vmTab.md) page for next instructions
+## Please navigate to the [Vm Settings](vmSettings.md) page for next instructions
