@@ -7,3 +7,4 @@
 [Home](README.md) |
 [Getting Started](gettingStarted.md) |
 [VM Tab](vmTab.md) |
+[VM Settings](vmSettings.md) |
